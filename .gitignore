@@ -1,0 +1,25 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Django
+db.sqlite3
+*.log
+
+# Environment
+.env
+venv/
+.venv/
+
+# Development tools
+.idea/
+.vscode/
+
+# Testing
+.coverage
+.pytest_cache/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
